@@ -1,0 +1,1 @@
+@reboot sudo -u root bash -c "cd /root/vcs_rig1/lcs-reflector && ./run.sh"
