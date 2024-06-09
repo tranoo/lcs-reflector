@@ -1,3 +1,8 @@
+# Tranoo fork
+
+git checkout lcs-0.7.x-socket.io
+
+
 # LiveCoding.space reflector
 
 Standalone message reflector for LiveCoding.space application (base on VWF reflector)  
