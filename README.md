@@ -1,7 +1,8 @@
 # Tranoo fork
 
+```sh
 git checkout lcs-0.7.x-socket.io
-
+```
 
 # LiveCoding.space reflector
 
